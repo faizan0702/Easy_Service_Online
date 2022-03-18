@@ -1,0 +1,1 @@
+web: gunicorn Easy_Service_Online.wsgi --log-file - 
